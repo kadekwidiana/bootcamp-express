@@ -1,0 +1,18 @@
+{
+  "title": "blog-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
